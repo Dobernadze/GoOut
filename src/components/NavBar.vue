@@ -27,7 +27,7 @@
             </ul>
         </div>
   </nav>
-    <nav class = "navbar navbar-dark bg-success navbar-expand-sm">
+    <nav class = "navbar navbar-dark navbar-expand-sm" style="background-color: rgba(0, 128, 128, 1)">
     <div class="container">
       <router-link class="navbar-brand text-white" to="/">Главная страница</router-link>
         <div class="collapse navbar-collapse"> 
