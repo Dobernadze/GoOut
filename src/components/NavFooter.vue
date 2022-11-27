@@ -78,7 +78,7 @@
             <!-- Links -->
             <h6 class="text-uppercase text-success fw-bold mb-4">Контакты</h6>
             <p>
-              <i class="fas fa-home text-success link-success"></i> Astana, Kazakhstan, 010000
+              <i class="fas fa-home link-success"></i> Astana, Kazakhstan, 010000
             </p>
             <p>
               <i class="fas fa-envelope link-success"></i>
