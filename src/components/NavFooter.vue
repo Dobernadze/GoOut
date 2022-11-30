@@ -4,7 +4,7 @@
  
     <section
       class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom" 
-      style="background-color: rgba(0, 128, 128, 1)"
+      style="background-color: rgba(165, 176, 202, 1)"
     >
        <div class="me-5 d-none d-lg-block text-white" >
         <span>Мы в социальных сетях</span>
@@ -63,30 +63,30 @@
         <MDBRow class="mt-3">
                   
           <MDBCol md="2" lg="2" xl="2" class="mx-auto mb-4">
-            <h6 class="text-uppercase fw-bold mb-4"> Sheber.kz </h6>
+            <h6 class="text-uppercase fw-bold mb-4"> GoOut </h6>
             <p>
-              <a href="#!" class="text-reset">Условия использования</a>
+              <a href="#!" class="text-reset">license agreement</a>
             </p>
             <p>
-              <a href="#!" class="text-reset">О проекте</a>
+              <a href="#!" class="text-reset">About Us</a>
             </p>
             <p>
-              <a href="#!" class="text-reset">Помощь</a>
+              <a href="#!" class="text-reset">help</a>
             </p>
           </MDBCol>
           <MDBCol md="4" lg="3" xl="3" class="mx-auto mb-md-0 mb-4">
             <!-- Links -->
-            <h6 class="text-uppercase text-success fw-bold mb-4">Контакты</h6>
+            <h6 class="text-uppercase text-success fw-bold mb-4">Contacts</h6>
             <p>
-              <i class="fas fa-home link-success"></i> Astana, Kazakhstan, 010000
+              <i class="fas fa-home link-success"></i>  information
             </p>
             <p>
               <i class="fas fa-envelope link-success"></i>
-              info@anio.com
+              information
             </p>
             <p>
               <MDBIcon icon="phone" class="link-success" />
-              + 7 747 599 59 70
+              number
             </p>
           </MDBCol>
           
@@ -95,8 +95,8 @@
       </MDBContainer>
     </section>
 
-    <div class="text-center p-4 text-white" style="background-color: rgba(0, 128, 128, 1);">
-      © 2022 Anio
+    <div class="text-center p-4 text-white" style="background-color: rgba(104, 123, 166, 1);">
+      
       
     </div>
    
